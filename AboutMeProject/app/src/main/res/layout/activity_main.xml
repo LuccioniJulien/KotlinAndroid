@@ -6,7 +6,6 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         tools:context=".MainActivity">
-
     <TextView
             android:text="@string/name"
             android:layout_width="match_parent"
@@ -20,6 +19,31 @@
             app:srcCompat="@android:drawable/btn_star_big_on"
             android:contentDescription="@string/star"
             android:id="@+id/star_image"/>
+    <TextView
+            android:text="Oui la vie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_name"
+            android:layout_margin="@dimen/Layout_Margin"
+            android:visibility="gone"
+            android:backgroundTint="#13B8A0"
+            android:textColor="#FFFFFF" android:background="#00897B" android:textAlignment="center"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edit_name"
+            style="@style/NameStyle"
+            android:hint="@string/what_nickname"/>
+    <Button
+            android:text="Done"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_action"
+            android:layout_margin="@dimen/Layout_Margin"
+            tools:text="Done"
+            android:backgroundTint="#009688"/>
     <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent">
