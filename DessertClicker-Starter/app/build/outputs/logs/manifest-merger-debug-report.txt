@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6beffdf4fa65322ee57387899a2c4ee6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/62a7dab2429774d3f2497d2edfb86c18/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/be2289a1f522f9665ad54e634e406e1f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/88e50a70023095dff84d30faaf83d239/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a12fad3bcccd1ac74211b49fb16a90b3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8a33d2b95dd68a396f09818a188b95c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ef4af760676d4e7a7a645f4cbcae9f87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/95c67b3bbd33c7eacd105b688cf4875c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/d777273093bac12387a4c3ba93709f69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/485b05595784f0e1dd3cbad6f6e9f392/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/778025dd7b0e0e6a4dea4c4f510b112b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c17e19743989e90ad98416c65c60dafc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/f254073f2070b68bfc6a94c5ba63db41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6b56c959497107165b208be8438df26b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/211ac2b4b1f650d8039981c1f144728a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35e9d4e9c3c738dc5cd9d481c6dbbf95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/032c90673975437b567a9d50b96a64bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/28529a50112207b9cc9dbad445fc7612/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/22917b5e7c74465a8fc4469f1b4deaa4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/87a69771dcfb40c8d2729b6e7af4dda2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/24a7cc7eaf4f3ef283d0b093dfd9046a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0db7e36b9b94feb33056ccbceed40f27/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/899a731b1c2f0a55d50dae0dcb50a6bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e425b7621c384bc2c6a5f70e5fbd0f5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/535088cb0c54395adcc5b08f12403164/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/5932213e261d4e57c99b649412a4c7a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0003252ad5176a5c3e5b994dc86cab66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/62f5f2b9e76881eb764c29019ac97968/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/690325a4998aa0a4b37d355a1e2254bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c764a29a7acd6d3b52cc8024c379e76f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a6fc0efde7c037e5056f58d37bc2f65a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:20:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/be2289a1f522f9665ad54e634e406e1f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/be2289a1f522f9665ad54e634e406e1f/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a12fad3bcccd1ac74211b49fb16a90b3/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a12fad3bcccd1ac74211b49fb16a90b3/AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/87a69771dcfb40c8d2729b6e7af4dda2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/87a69771dcfb40c8d2729b6e7af4dda2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0db7e36b9b94feb33056ccbceed40f27/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0db7e36b9b94feb33056ccbceed40f27/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/87a69771dcfb40c8d2729b6e7af4dda2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:25:9-61
+	android:icon
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:23:9-50
+	android:allowBackup
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:21:9-43
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6beffdf4fa65322ee57387899a2c4ee6/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6beffdf4fa65322ee57387899a2c4ee6/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/62a7dab2429774d3f2497d2edfb86c18/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/62a7dab2429774d3f2497d2edfb86c18/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/be2289a1f522f9665ad54e634e406e1f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/be2289a1f522f9665ad54e634e406e1f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/88e50a70023095dff84d30faaf83d239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/88e50a70023095dff84d30faaf83d239/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a12fad3bcccd1ac74211b49fb16a90b3/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a12fad3bcccd1ac74211b49fb16a90b3/AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8a33d2b95dd68a396f09818a188b95c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8a33d2b95dd68a396f09818a188b95c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ef4af760676d4e7a7a645f4cbcae9f87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ef4af760676d4e7a7a645f4cbcae9f87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/95c67b3bbd33c7eacd105b688cf4875c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/95c67b3bbd33c7eacd105b688cf4875c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/d777273093bac12387a4c3ba93709f69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/d777273093bac12387a4c3ba93709f69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/485b05595784f0e1dd3cbad6f6e9f392/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/485b05595784f0e1dd3cbad6f6e9f392/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/778025dd7b0e0e6a4dea4c4f510b112b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/778025dd7b0e0e6a4dea4c4f510b112b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c17e19743989e90ad98416c65c60dafc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c17e19743989e90ad98416c65c60dafc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/f254073f2070b68bfc6a94c5ba63db41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/f254073f2070b68bfc6a94c5ba63db41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6b56c959497107165b208be8438df26b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6b56c959497107165b208be8438df26b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/211ac2b4b1f650d8039981c1f144728a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/211ac2b4b1f650d8039981c1f144728a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35e9d4e9c3c738dc5cd9d481c6dbbf95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35e9d4e9c3c738dc5cd9d481c6dbbf95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/032c90673975437b567a9d50b96a64bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/032c90673975437b567a9d50b96a64bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/28529a50112207b9cc9dbad445fc7612/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/28529a50112207b9cc9dbad445fc7612/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/22917b5e7c74465a8fc4469f1b4deaa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/22917b5e7c74465a8fc4469f1b4deaa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/87a69771dcfb40c8d2729b6e7af4dda2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/87a69771dcfb40c8d2729b6e7af4dda2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/24a7cc7eaf4f3ef283d0b093dfd9046a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/24a7cc7eaf4f3ef283d0b093dfd9046a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0db7e36b9b94feb33056ccbceed40f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0db7e36b9b94feb33056ccbceed40f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/899a731b1c2f0a55d50dae0dcb50a6bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/899a731b1c2f0a55d50dae0dcb50a6bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e425b7621c384bc2c6a5f70e5fbd0f5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e425b7621c384bc2c6a5f70e5fbd0f5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/535088cb0c54395adcc5b08f12403164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/535088cb0c54395adcc5b08f12403164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/5932213e261d4e57c99b649412a4c7a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/5932213e261d4e57c99b649412a4c7a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0003252ad5176a5c3e5b994dc86cab66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0003252ad5176a5c3e5b994dc86cab66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/62f5f2b9e76881eb764c29019ac97968/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/62f5f2b9e76881eb764c29019ac97968/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/690325a4998aa0a4b37d355a1e2254bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/690325a4998aa0a4b37d355a1e2254bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c764a29a7acd6d3b52cc8024c379e76f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c764a29a7acd6d3b52cc8024c379e76f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a6fc0efde7c037e5056f58d37bc2f65a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a6fc0efde7c037e5056f58d37bc2f65a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/DessertClicker-Starter/app/src/main/AndroidManifest.xml
