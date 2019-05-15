@@ -21,28 +21,18 @@ class MainActivity : AppCompatActivity() {
         title = "RecycleView WwWWoWwwwW"
         val rv = findViewById<RecyclerView>(R.id.recycle)
         rv.layoutManager = LinearLayoutManager(this, LinearLayout.VERTICAL, false)
-        val desItems:MutableList<String> = listOf(
+        val desItems: MutableList<String> = mutableListOf(
             "Item",
             "Item"
-        ).toMutableList()
+        )
         val adapter = CustomAdapter(desItems)
         rv.adapter = adapter
 
         fab.setOnClickListener {
-            desItems.add("Item")
-            val newAdap = CustomAdapter(desItems)
-            rv.adapter = newAdap
+            adapter.userList.add("Item")
+            adapter.notifyItemInserted(adapter.userList.size - 1)
+            rv.scrollToPosition(adapter.userList.size - 1)
         }
-//        doAsync {
-//            var oui = URL("https://www.thecocktaildb.com/api/json/v1/1/filter.php?a=Alcoholic").readText()
-//            uiThread {
-//                Log.d("Request", oui)
-//                longToast("Request performed")
-//                var yep = listOf("lol","lol","lol","lol")
-//                var adpt = CustomAdapter(yep)
-//                rv.adapter = adpt
-//            }
-//        }
 
     }
 
