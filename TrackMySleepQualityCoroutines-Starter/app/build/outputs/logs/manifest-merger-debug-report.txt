@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/dc8a5f65b69fb6f1d5af39213b73b7b9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a17c63a08f1a2b95039fc85aa8592801/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/7053ec0bc3c24995f0e5a713bd70ed05/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ab0db2a0d7c4382c2f8196ec5a4dcf0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/334041275b9d0e135eb13624ab59ebdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/680efd8581e459c37b5cb53ff53b2b52/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/25ab08e15e1f0948e76c1ed1714eb3c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b4376c01c755854e04ec92d787bee44a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ae5754318b26919c0403872726a6dfff/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9a5026c2a492a73976657a67e84dec88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/61a413e042197ac781af28a786bfc313/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/d155e87d227784953b1c0ba5bf5b6bb7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/4e01cadf841c38503bd1b3d15f898ada/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6f1d6aeed6c99ba6e93f0f4d40601e90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/1c335797373a89c5e1a975f2a40b42a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/bf35e55109f36f64a2028cd5f6b64cca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/2f3fe867f8792bef97084018a5b39c5c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b56d56c1a44377d2d3d433dd609d89c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9dc7c73f6afebff650049b0b15516391/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/39a0a2cf91aef0ef5056e915c63d2c25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a881deebfdc05fd4f91b2363747fec39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/20982c54a8b6c01f9f2adc307aa2b8a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e3846120a990890c27b00e29baf3251f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3931e76971d240e735f3d4ce20371440/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e4fd30c680d54f79deb378d5d6f11cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/60969ff0f1e7c093c8139caed6e67c96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/5a8abde5b687cd5ce10cf182cc7eb440/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c74597c5d2e29aaf6a82e34847a18fb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/49acb03ea459544877502d9ac5016f05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/de46bf302b2037a5e7f00defd55e77fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/33b6d6d4767dbf802ff2aa2d52308ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8ab5ae87100ab4e7a5aea8c283833cb1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b50129594010705e483b8a0f7e17697c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35ed1d830c40f1e0a93cdad87fb20627/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8e89c03b5e77dadebfdd11cb80d4a7d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/985d27e94049d34baee2a1c236c343dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6e07565f9e383d8f8f62dff945026a6e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/dad4a79e49e9ee408477a19927f52745/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ff5fb77f0443247994ddc38a375d27db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9d33a6a3692e393ed5fdb5c363f1ef5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c1881149bb23170eeb1af7511b4a7396/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/db99622250027a57375b4cba5300db75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3b6d407d4dcc70ecde2c4b4a1a56dab6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/28335781f598f724e816751647162d85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0eb39309383257395598edfe2bd3c459/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/58a22a0cf3f3d5c9930cbb059ac2b39f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3372a31f75ce60c7b0a7054f0e183ac7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/557755f43d4d87000915635c59438aa6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/08b47507e288f2e4fee732e354f304e8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/7053ec0bc3c24995f0e5a713bd70ed05/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/7053ec0bc3c24995f0e5a713bd70ed05/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/680efd8581e459c37b5cb53ff53b2b52/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/680efd8581e459c37b5cb53ff53b2b52/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ae5754318b26919c0403872726a6dfff/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ae5754318b26919c0403872726a6dfff/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35ed1d830c40f1e0a93cdad87fb20627/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35ed1d830c40f1e0a93cdad87fb20627/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6e07565f9e383d8f8f62dff945026a6e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6e07565f9e383d8f8f62dff945026a6e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35ed1d830c40f1e0a93cdad87fb20627/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/dc8a5f65b69fb6f1d5af39213b73b7b9/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/dc8a5f65b69fb6f1d5af39213b73b7b9/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a17c63a08f1a2b95039fc85aa8592801/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a17c63a08f1a2b95039fc85aa8592801/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/7053ec0bc3c24995f0e5a713bd70ed05/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/7053ec0bc3c24995f0e5a713bd70ed05/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ab0db2a0d7c4382c2f8196ec5a4dcf0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ab0db2a0d7c4382c2f8196ec5a4dcf0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/334041275b9d0e135eb13624ab59ebdc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/334041275b9d0e135eb13624ab59ebdc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/680efd8581e459c37b5cb53ff53b2b52/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/680efd8581e459c37b5cb53ff53b2b52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/25ab08e15e1f0948e76c1ed1714eb3c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/25ab08e15e1f0948e76c1ed1714eb3c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b4376c01c755854e04ec92d787bee44a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b4376c01c755854e04ec92d787bee44a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ae5754318b26919c0403872726a6dfff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ae5754318b26919c0403872726a6dfff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9a5026c2a492a73976657a67e84dec88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9a5026c2a492a73976657a67e84dec88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/61a413e042197ac781af28a786bfc313/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/61a413e042197ac781af28a786bfc313/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/d155e87d227784953b1c0ba5bf5b6bb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/d155e87d227784953b1c0ba5bf5b6bb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/4e01cadf841c38503bd1b3d15f898ada/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/4e01cadf841c38503bd1b3d15f898ada/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6f1d6aeed6c99ba6e93f0f4d40601e90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6f1d6aeed6c99ba6e93f0f4d40601e90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/1c335797373a89c5e1a975f2a40b42a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/1c335797373a89c5e1a975f2a40b42a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/bf35e55109f36f64a2028cd5f6b64cca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/bf35e55109f36f64a2028cd5f6b64cca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/2f3fe867f8792bef97084018a5b39c5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/2f3fe867f8792bef97084018a5b39c5c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b56d56c1a44377d2d3d433dd609d89c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b56d56c1a44377d2d3d433dd609d89c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9dc7c73f6afebff650049b0b15516391/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9dc7c73f6afebff650049b0b15516391/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/39a0a2cf91aef0ef5056e915c63d2c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/39a0a2cf91aef0ef5056e915c63d2c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a881deebfdc05fd4f91b2363747fec39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/a881deebfdc05fd4f91b2363747fec39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/20982c54a8b6c01f9f2adc307aa2b8a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/20982c54a8b6c01f9f2adc307aa2b8a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e3846120a990890c27b00e29baf3251f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e3846120a990890c27b00e29baf3251f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3931e76971d240e735f3d4ce20371440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3931e76971d240e735f3d4ce20371440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e4fd30c680d54f79deb378d5d6f11cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/e4fd30c680d54f79deb378d5d6f11cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/60969ff0f1e7c093c8139caed6e67c96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/60969ff0f1e7c093c8139caed6e67c96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/5a8abde5b687cd5ce10cf182cc7eb440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/5a8abde5b687cd5ce10cf182cc7eb440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c74597c5d2e29aaf6a82e34847a18fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c74597c5d2e29aaf6a82e34847a18fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/49acb03ea459544877502d9ac5016f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/49acb03ea459544877502d9ac5016f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/de46bf302b2037a5e7f00defd55e77fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/de46bf302b2037a5e7f00defd55e77fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/33b6d6d4767dbf802ff2aa2d52308ab7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/33b6d6d4767dbf802ff2aa2d52308ab7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8ab5ae87100ab4e7a5aea8c283833cb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8ab5ae87100ab4e7a5aea8c283833cb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b50129594010705e483b8a0f7e17697c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/b50129594010705e483b8a0f7e17697c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35ed1d830c40f1e0a93cdad87fb20627/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/35ed1d830c40f1e0a93cdad87fb20627/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8e89c03b5e77dadebfdd11cb80d4a7d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/8e89c03b5e77dadebfdd11cb80d4a7d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/985d27e94049d34baee2a1c236c343dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/985d27e94049d34baee2a1c236c343dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6e07565f9e383d8f8f62dff945026a6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/6e07565f9e383d8f8f62dff945026a6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/dad4a79e49e9ee408477a19927f52745/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/dad4a79e49e9ee408477a19927f52745/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ff5fb77f0443247994ddc38a375d27db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/ff5fb77f0443247994ddc38a375d27db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9d33a6a3692e393ed5fdb5c363f1ef5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/9d33a6a3692e393ed5fdb5c363f1ef5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c1881149bb23170eeb1af7511b4a7396/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/c1881149bb23170eeb1af7511b4a7396/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/db99622250027a57375b4cba5300db75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/db99622250027a57375b4cba5300db75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3b6d407d4dcc70ecde2c4b4a1a56dab6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3b6d407d4dcc70ecde2c4b4a1a56dab6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/28335781f598f724e816751647162d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/28335781f598f724e816751647162d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0eb39309383257395598edfe2bd3c459/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/0eb39309383257395598edfe2bd3c459/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/58a22a0cf3f3d5c9930cbb059ac2b39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/58a22a0cf3f3d5c9930cbb059ac2b39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3372a31f75ce60c7b0a7054f0e183ac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/3372a31f75ce60c7b0a7054f0e183ac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/557755f43d4d87000915635c59438aa6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/557755f43d4d87000915635c59438aa6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/08b47507e288f2e4fee732e354f304e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/08b47507e288f2e4fee732e354f304e8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/julienluccioni/.gradle/caches/transforms-2/files-2.1/217d4e1fb1f76e44664611389d891cac/AndroidManifest.xml:24:13-79

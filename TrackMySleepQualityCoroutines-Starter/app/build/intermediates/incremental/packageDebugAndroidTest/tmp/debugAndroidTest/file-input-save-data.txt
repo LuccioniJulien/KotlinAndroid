@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 16 13:47:46 CEST 2019
+0.baseType=DIRECTORY
+0.base=/Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+0.path=classes.dex
+0.set=DEX
+count=1

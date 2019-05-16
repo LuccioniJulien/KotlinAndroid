@@ -1,0 +1,4 @@
+#Thu May 16 13:47:46 CEST 2019
+base.0=/Users/julienluccioni/Desktop/codage/Kotlin/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+path.0=classes.dex
+renamed.0=classes.dex
